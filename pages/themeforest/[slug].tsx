@@ -12,7 +12,6 @@ import path from 'path';
 import React from 'react';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 import rehypeSlug from 'rehype-slug';
-import { BASE_URL } from '../../components/Layout';
 import { PostType } from '../../Arch/types/post';
 import { postFilePaths, POSTS_PATH } from '../../Arch/utils/themeforest';
 
